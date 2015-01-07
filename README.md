@@ -1,5 +1,8 @@
+===============
 Informatics App
 
+
+========
 Features
 * Name 
 * Gender
