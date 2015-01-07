@@ -3,7 +3,7 @@ Informatics App
 ===============
 
 Source code of the android app developed for Hike Hackathon 2014 . For more info about the contest visit 
-hikeathon.hackerrank.com
+http://www.hikeathon.hackerrank.com
 
 Features
 ========
