@@ -1,9 +1,10 @@
 ===============
 Informatics App
-
+===============
 
 ========
 Features
+========
 * Name 
 * Gender
 * Birthday
