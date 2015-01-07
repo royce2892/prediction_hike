@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="royce.com.smile.MainActivity" >
+
+    <item
+        android:id="@+id/action_login"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Login"/>
+    
+    <item
+        android:id="@+id/action_fb"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="FB DETAILS"/>
+    
+
+</menu>
