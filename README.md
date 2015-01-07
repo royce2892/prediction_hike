@@ -1,8 +1,8 @@
-===============
+
 Informatics App
 ===============
 
-========
+
 Features
 ========
 * Name 
@@ -20,7 +20,7 @@ Simple Facebook open source library has been used for the same .
 The algorithm used to determine the best three friends is as follows :
 	Entire call log history of the user is analyzed 
 	Friend quotient =Sum of outgoingcall duration * 2 + Sum of incoming call duraction * 1
-	Numbers starting with 0 or +91 are stripped to 10 digits to prevent duplication
+		Numbers starting with 0 or +91 are stripped to 10 digits to prevent duplication
 	Contact names of the top 3 numbers having maximum friend quotient is displayed
 
 The algorithm used to determine most uses apps is as follows :
